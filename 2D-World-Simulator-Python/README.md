@@ -14,7 +14,7 @@ Placing any organism by clicking on any free cell is avaliable in this applicati
 🌱 At the start of a game, there appears a window where you can chose board size and its visualization - to be a grid or hexagonal version of a world. </br>
 </br>
 Unlike other implementations (C++, Java) there is also one additionally organism: [Cyber-Sheep](https://github.com/swiczi/Object-Oriented-Programming/blob/main/README.md#explenation-of-symbols-and-organisms-behaviour)
-## Example Games Saves:
+## Examples of Game Saves:
 *Python-Saves/save_1* </br>
 **Grid World:** Human ability is already activated. </br>
 </br>
